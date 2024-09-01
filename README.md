@@ -1,22 +1,16 @@
-# Hi there 👋
+## Hi there 👋
 
-<!--
-**Diego-Cundapi/Diego-Cundapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm Diego Iván Cundapi León, a passionate web development student at the Instituto Tecnológico de Tuxtla Gutiérrez.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I love coding and I'm always eager to learn something new.
+- 🌱 Currently, I'm diving into React and Angular.
+- 📈 Personal growth is crucial for me, and I believe it goes hand in hand with maintaining good health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Welcome to my profile, I am student at The Institute Tecnology campus Tuxtla Gutierrez.
-## I love the code and I am always learning a thing new. 
-## For me, personal growth is very important, accompanied by good health.
+### 🛠️ Tech Skills
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, jQuery
+- **Backend**: PHP, Laravel
+- **Databases**: SQL (relational)
 
-### I have knowledge in HTML, CSS, JavaScript, PHP, Laravel, Tailwind CSS,  Bootstrap, Jquery, SQL relational.
-## Currently I am learning React and Angular.
+### 🤝 Let's Connect
+I'm always open to collaboration, new opportunities, and interesting projects. Feel free to reach out!
