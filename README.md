@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Diego-Cundapi/Diego-Cundapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Welcome to my profile, I am student at The Institute Tecnology campus Tuxtla Gutierrez.
+## I love the code and I am always learning a thing new. 
+## For me, personal growth is very important, accompanied by good health.
+
+### I have knowledge in HTML, CSS, JavaScript, PHP, Laravel, Tailwind CSS,  Bootstrap, Jquery, SQL relational.
+## Currently I am learning React and Angular.
