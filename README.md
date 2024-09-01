@@ -12,5 +12,9 @@ Welcome to my profile! I'm Diego Iván Cundapi León, a passionate web developme
 - **Backend**: PHP, Laravel
 - **Databases**: SQL (relational)
 
+📫 How to Reach Me
+- Email: Diego_cundapi@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/diego-ivan-cundap%C3%AD-le%C3%B3n-167a1328a/
+
 ### 🤝 Let's Connect
 I'm always open to collaboration, new opportunities, and interesting projects. Feel free to reach out!
